@@ -13,7 +13,7 @@ from sklearn.pipeline import Pipeline
 
 from config import PROD_ALIAS, REGISTERED_MODEL_NAME
 
-EXPERIMENT_NAME = "m-sveshnikov-24-mlops-project"
+EXPERIMENT_NAME = "an-privalov-24-mlops-project"
 GOOD_DATA_URL = (
     "https://s3.lab.karpov.courses/mlops-training-sets/project/example/good.csv"
 )
